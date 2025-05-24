@@ -51,7 +51,7 @@ Get the app now on Google Play:
 
 ## Contact
 
-For support or feedback, reach out to me at: [your@email.com](mailto:your@email.com)
+For support or feedback, reach out to me at: [your@email.com](mailto:kerrysharma01@gmail.com)
 
 ---
 
