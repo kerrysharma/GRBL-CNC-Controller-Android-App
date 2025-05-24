@@ -6,6 +6,11 @@
 
 GRBL CNC Controller is a powerful and easy-to-use Android app to control your GRBL-based CNC machines via USB OTG. No PC needed! Perfect for makers, engineers, and CNC hobbyists.
 
+## Download
+
+Get the app now on Google Play:  
+[GRBL CNC Controller - Play Store](https://play.google.com/store/apps/details?id=com.kerry.grblcontroller)
+
 ---
 
 ## Features
