@@ -29,8 +29,10 @@ GRBL CNC Controller is a powerful and easy-to-use Android app to control your GR
 
 ## Screenshots
 
-![Screenshot 1](https://play-lh.googleusercontent.com/xvAdwJ11vKFT39hvXQ7rrKDfxgaJvfbT3FguY5Lgi5SbbdB3-o8SW__Pdsg6Wa3wP40=w2560-h1440-rw)  
-![Screenshot 2](https://play-lh.googleusercontent.com/C7MkZFvouAWotwUBsjVzfFtOOxnqlDfiZyNjQ2TSCSx9SxSXhNdDwjDrUUplOn3Fsw=w2560-h1440-rw)
+<p float="left">
+  <img src="https://play-lh.googleusercontent.com/xvAdwJ11vKFT39hvXQ7rrKDfxgaJvfbT3FguY5Lgi5SbbdB3-o8SW__Pdsg6Wa3wP40=w2560-h1440-rw" width="45%" style="margin-right:5%" />
+  <img src="https://play-lh.googleusercontent.com/C7MkZFvouAWotwUBsjVzfFtOOxnqlDfiZyNjQ2TSCSx9SxSXhNdDwjDrUUplOn3Fsw=w2560-h1440-rw" width="45%" />
+</p>
 
 ---
 
