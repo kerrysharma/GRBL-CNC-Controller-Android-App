@@ -57,4 +57,4 @@ For support or feedback, reach out to me at: [your@email.com](mailto:kerrysharma
 
 ## Keywords
 
-GRBL CNC controller, Android CNC app, USB OTG CNC, offline CNC control, CNC machine controller app, Kerry Sharma
+GRBL CNC controller, Android CNC app, USB OTG CNC, offline CNC control, CNC machine controller app,  Kerry Sharma
