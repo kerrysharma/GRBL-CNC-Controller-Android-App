@@ -29,8 +29,8 @@ GRBL CNC Controller is a powerful and easy-to-use Android app to control your GR
 
 ## Screenshots
 
-![Screenshot 1](https://play-lh.googleusercontent.com/_Ujw_UepX5qJ5GVCXcMz4Hq-dzExS1NlNq3JrQEBsqGwnHqZ2rXoJv7u-LHq9Nn5JDxU=s180-rw)  
-![Screenshot 2](https://play-lh.googleusercontent.com/BdAbqMxKwPl9df0wD6Rr_GJZfiJ3ik9PTMQdmnAos1FZ_BNUY_tUrKkTBypLu8e-y7s=s180-rw)
+![Screenshot 1]([https://play-lh.googleusercontent.com/_Ujw_UepX5qJ5GVCXcMz4Hq-dzExS1NlNq3JrQEBsqGwnHqZ2rXoJv7u-LHq9Nn5JDxU=s180-rw](https://play-lh.googleusercontent.com/xvAdwJ11vKFT39hvXQ7rrKDfxgaJvfbT3FguY5Lgi5SbbdB3-o8SW__Pdsg6Wa3wP40=w2560-h1440-rw))  
+![Screenshot 2]([https://play-lh.googleusercontent.com/BdAbqMxKwPl9df0wD6Rr_GJZfiJ3ik9PTMQdmnAos1FZ_BNUY_tUrKkTBypLu8e-y7s=s180-rw](https://play-lh.googleusercontent.com/C7MkZFvouAWotwUBsjVzfFtOOxnqlDfiZyNjQ2TSCSx9SxSXhNdDwjDrUUplOn3Fsw=w2560-h1440-rw))
 
 ---
 
